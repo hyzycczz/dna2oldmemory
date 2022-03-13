@@ -1,4 +1,4 @@
-dna2oldmemory
+dna2oldmemory简单脉搏波波形分析系统设计与实现
 =============
 
 Migrate my old code from SourceForge
